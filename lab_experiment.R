@@ -1,7 +1,4 @@
 # Seed Cold Tolerance
-# LML
-# Summer 2021
-
 # Enter and organize data
 
 library(tidyverse)
