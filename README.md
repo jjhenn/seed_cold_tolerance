@@ -9,4 +9,4 @@ There are two R scripts:
 
 There is also one data file: "col_dates.csv", which contains the field collection dates from the field experiment.
 
-All other data used here are archived with the Environmental Data Initiative here: DOI
+All other data used here are archived with the Environmental Data Initiative here: https://doi.org/10.6073/pasta/e84a56f6aca6775b626bcbdc5f222842
